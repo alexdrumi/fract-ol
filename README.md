@@ -1,5 +1,5 @@
 # FRACT-OL
-> FRACT-OL is introduction into computer graphics using the intricate mathematical construct known as fractals.
+> FRACT-OL is an introduction project into computer graphics using the intricate mathematical construct known as fractals.
 
 <br>
 
@@ -32,13 +32,11 @@
 
 ## Setup
 Requirements are:
-- macOS intel
+- macOS with Intel chip
 
 
 ## Usage
-`make && ./webserv data/conf/default.conf`
+`make && ./fractol julia`
 
-Or after make, provide your own custom .conf file.
-
-`make && ./webserv you_own_conf_file`
+`make && ./fractol mandelbrot`
 
