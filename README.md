@@ -1,5 +1,5 @@
 # FRACT-OL
-> FRACT-OL is an introduction project into computer graphics using the intricate mathematical construct known as fractals.
+> FRACT-OL is an introductory project into computer graphics using the intricate mathematical construct known as fractals.
 
 <br>
 
