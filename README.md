@@ -23,7 +23,10 @@
 
 
 ## Screenshots
-![Example screenshot](./data/www/screenshot.png)
+![Example screenshot](./screenshots/fract-ol1.jpg)
+![Example screenshot](./screenshots/fract-ol2.jpg)
+![Example screenshot](./screenshots/fract-ol3.jpg)
+
 
 
 
